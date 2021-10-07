@@ -27,6 +27,7 @@
 - ![](platform_icons/qiita.png) [SlackとGitHubを連携してissueコメントやプルリク通知をチャンネルに流す方法（2020年版）](https://qiita.com/unsoluble_sugar/items/e42ac352400598a24915)
 - ![](platform_icons/qiita.png) [HTTPステータスコード 完全に理解した](https://qiita.com/unsoluble_sugar/items/b080a16701946fcfce70)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
+- ![](platform_icons/qiita.png) [挑戦者求む！GCPでWordPress立ち上げRTA](https://qiita.com/unsoluble_sugar/items/017bcc1c13952cd4e309)
 - ![](platform_icons/speakerdeck.png) [歴史的経緯から学ぶVTuber超入門](https://speakerdeck.com/unsoluble_sugar/virtual-youtuber-super-introduction-to-learn-from-historical-background)
 - ![](platform_icons/speakerdeck.png) [リモート勉強会完全に理解した](https://speakerdeck.com/unsoluble_sugar/study-meeting-online-completely-understood)
 - ![](platform_icons/speakerdeck.png) [VMagicMirror完全に理解した](https://speakerdeck.com/unsoluble_sugar/vmagicmirror-completely-understood)
