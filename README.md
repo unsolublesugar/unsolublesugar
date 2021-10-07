@@ -19,6 +19,10 @@
 # Recent posts
 
 <!--[START POSTS]-->
+- ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
+- ![](platform_icons/zenn.png) [【入門】Electron完全に理解した](https://zenn.dev/unsoluble_sugar/articles/c5b5faefddd35c1be8a3)
+- ![](platform_icons/zenn.png) [ラズパイではじめてのLチカしてみた記録](https://zenn.dev/unsoluble_sugar/articles/7dfb85a2689dfd4214bb)
+- ![](platform_icons/zenn.png) [GitHubリポジトリ連携を通して感じたZennの良さ](https://zenn.dev/unsoluble_sugar/articles/9c04a36a5decdb6d1b20)
 - ![](platform_icons/qiita.png) [VTuberのホームページをGitHubのプルリクだけで更新していったらどうなるのか？企画に参戦してみた](https://qiita.com/unsoluble_sugar/items/120f0856d497ef96010e)
 - ![](platform_icons/qiita.png) [SlackとGitHubを連携してissueコメントやプルリク通知をチャンネルに流す方法（2020年版）](https://qiita.com/unsoluble_sugar/items/e42ac352400598a24915)
 - ![](platform_icons/qiita.png) [HTTPステータスコード 完全に理解した](https://qiita.com/unsoluble_sugar/items/b080a16701946fcfce70)
