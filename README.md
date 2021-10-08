@@ -1,3 +1,27 @@
+<p align="left"> 
+  <a href="https://github.com/unsolublesugar/unsolublesugar/">
+    <img src="https://komarev.com/ghpvc/?username=unsolublesugar" alt="unsolublesugar" />
+  </a>
+  <a href="http://twitter.com/unsoluble_sugar">
+    <img height="20" src="https://img.shields.io/twitter/follow/unsoluble_sugar?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/unsolublesugar">
+    <img height="20" src="https://img.shields.io/github/followers/unsolublesugar?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/unsolublesugar">
+    <img height="20" src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=unsolublesugar" />
+  </a>
+  <a href="http://qiita.com/unsoluble_sugar">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/unsoluble_sugar/posts.svg" />
+  </a>
+  <//qiita.com/unsoluble_sugar">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/unsoluble_sugar/contributions.svg" />
+  </a>
+  <//qiita.com/unsoluble_sugar">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/unsoluble_sugar/followers.svg" />
+  </a>
+</p>
+
 # 🏆 Github Profile Trophy
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
