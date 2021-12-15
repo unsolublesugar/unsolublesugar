@@ -64,3 +64,5 @@ Read more on
 ![](platform_icons/qiita.png) [Qiita](https://qiita.com/unsoluble_sugar) /
 ![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/unsoluble_sugar) /
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
+
+# ◢◤[LAPRAS ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)◢◤
