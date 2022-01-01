@@ -54,6 +54,7 @@
 - ![](platform_icons/speakerdeck.png) [歴史的経緯から学ぶVTuber超入門](https://speakerdeck.com/unsoluble_sugar/virtual-youtuber-super-introduction-to-learn-from-historical-background)
 - ![](platform_icons/speakerdeck.png) [リモート勉強会完全に理解した](https://speakerdeck.com/unsoluble_sugar/study-meeting-online-completely-understood)
 - ![](platform_icons/speakerdeck.png) [VMagicMirror完全に理解した](https://speakerdeck.com/unsoluble_sugar/vmagicmirror-completely-understood)
+- ![](platform_icons/note.png) [2022年の抱負](https://note.com/unsoluble_sugar/n/nd6015d904897)
 - ![](platform_icons/note.png) [TGS VR 2021に見た「VRの強み」と「リアル開催で得られていた熱気の喪失」](https://note.com/unsoluble_sugar/n/nf26d353e0257)
 - ![](platform_icons/note.png) [Varjo XR-3を体験したら生まれたてのおじさんになった](https://note.com/unsoluble_sugar/n/n61ba2fb09dc2)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
