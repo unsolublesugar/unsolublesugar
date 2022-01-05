@@ -54,6 +54,7 @@
 - ![](platform_icons/speakerdeck.png) [歴史的経緯から学ぶVTuber超入門](https://speakerdeck.com/unsoluble_sugar/virtual-youtuber-super-introduction-to-learn-from-historical-background)
 - ![](platform_icons/speakerdeck.png) [リモート勉強会完全に理解した](https://speakerdeck.com/unsoluble_sugar/study-meeting-online-completely-understood)
 - ![](platform_icons/speakerdeck.png) [VMagicMirror完全に理解した](https://speakerdeck.com/unsoluble_sugar/vmagicmirror-completely-understood)
+- ![](platform_icons/note.png) [3Dモデリングを完全に理解したいおじさんのBlender日誌](https://note.com/unsoluble_sugar/m/m1f67c88a7c9e)
 - ![](platform_icons/note.png) [2022年の抱負](https://note.com/unsoluble_sugar/n/nd6015d904897)
 - ![](platform_icons/note.png) [TGS VR 2021に見た「VRの強み」と「リアル開催で得られていた熱気の喪失」](https://note.com/unsoluble_sugar/n/nf26d353e0257)
 - ![](platform_icons/note.png) [Varjo XR-3を体験したら生まれたてのおじさんになった](https://note.com/unsoluble_sugar/n/n61ba2fb09dc2)
@@ -65,5 +66,13 @@ Read more on
 ![](platform_icons/qiita.png) [Qiita](https://qiita.com/unsoluble_sugar) /
 ![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/unsoluble_sugar) /
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
+
+# Work Related posts
+- [テックブログ運営を回すための取り組み 〜黄金の回転編〜 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/involved-techblog)
+- [情報発信が止まらない組織へ。エンジニアリングマネージャー・佐藤巧実の考える、これからのSynamon｜Synamon](https://note.synamon.jp/n/n44446570089a)
+- [情報の架け橋になる ｜ ユカイ工学プロジェクトマネージャー 佐藤巧実 インタビュー｜ユカイ工学｜note ](https://note.com/ux_xu/n/n2d345843cefd)
+- [グラムの開発にあるものと、チームで動くための心得｜グラム株式会社｜note](https://note.com/ginc/n/n2aa808ae8b85)
+- [株式会社 マスカチ | Green](https://www.green-japan.com/pr/4238)
+- [「スマホで2択」が女子高生の新たなブーム!? アンケートアプリ『aorb』が10代女子にウケる理由 - エンジニアtype | 転職type](https://type.jp/et/feature/5667/)
 
 # ◢◤[LAPRAS ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)◢◤
