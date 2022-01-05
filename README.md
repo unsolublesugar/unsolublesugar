@@ -40,7 +40,7 @@
 </div>
 
 
-# Recent posts
+# 📖Recent posts
 
 <!--[START POSTS]-->
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
@@ -67,7 +67,7 @@ Read more on
 ![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/unsoluble_sugar) /
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
-# Work Related posts
+# 💻Work Related posts
 - [テックブログ運営を回すための取り組み 〜黄金の回転編〜 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/involved-techblog)
 - [情報発信が止まらない組織へ。エンジニアリングマネージャー・佐藤巧実の考える、これからのSynamon｜Synamon](https://note.synamon.jp/n/n44446570089a)
 - [情報の架け橋になる ｜ ユカイ工学プロジェクトマネージャー 佐藤巧実 インタビュー｜ユカイ工学｜note ](https://note.com/ux_xu/n/n2d345843cefd)
