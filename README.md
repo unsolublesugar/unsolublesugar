@@ -40,7 +40,7 @@
 </div>
 
 
-# 📖Recent posts
+# 📖Featured posts
 
 <!--[START POSTS]-->
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
