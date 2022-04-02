@@ -28,7 +28,7 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=unsolublesugar&column=7&no-frame=true"/>
 </a>
 
-# 📝 Featured posts
+# 📰 Featured posts
 
 <!--[START POSTS]-->
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
@@ -64,4 +64,4 @@ Read more on
 - [株式会社 マスカチ | Green](https://www.green-japan.com/pr/4238)
 - [「スマホで2択」が女子高生の新たなブーム!? アンケートアプリ『aorb』が10代女子にウケる理由 - エンジニアtype | 転職type](https://type.jp/et/feature/5667/)
 
-# 🗣 [LAPRAS ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)
+# 📜 [LAPRAS ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)
