@@ -56,6 +56,7 @@ Read more on
 
 # 💻 Work Related posts
 
+- [「IT業界歴15年、7社でキャリアアップ！自分の強みを多角的に見せる」若手育成も担うエンジニアリングマネージャーのキャリアづくりとは【LAPRAS転職者インタビュー】 - LAPRAS NOTE ](https://note.lapras.com/method/sato/)
 - [エンジニアリングマネージャー目線で見るライブラリ技術選定の勘所 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/technology-selection-for-library)
 - [テックブログ運営を回すための取り組み 〜黄金の回転編〜 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/involved-techblog)
 - [情報発信が止まらない組織へ。エンジニアリングマネージャー・佐藤巧実の考える、これからのSynamon｜Synamon](https://note.synamon.jp/n/n44446570089a)
