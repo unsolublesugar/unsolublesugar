@@ -63,3 +63,5 @@ Read more on
 - [「スマホで2択」が女子高生の新たなブーム!? アンケートアプリ『aorb』が10代女子にウケる理由 - エンジニアtype | 転職type](https://type.jp/et/feature/5667/)
 
 # 📜 [LAPRAS ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
