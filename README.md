@@ -37,7 +37,7 @@
 - ![](platform_icons/qiita.png) [VTuberのホームページをGitHubのプルリクだけで更新していったらどうなるのか？企画に参戦してみた](https://qiita.com/unsoluble_sugar/items/120f0856d497ef96010e)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
 - ![](platform_icons/qiita.png) [FlutterでFirebase Authenticationを使ったGoogleアカウントログインを実装してみた](https://qiita.com/unsoluble_sugar/items/95b16c01b456be19f9ac)
-- ![](platform_icons/speakerdeck.png) [歴史的経緯から学ぶVTuber超入門](https://speakerdeck.com/unsoluble_sugar/virtual-youtuber-super-introduction-to-learn-from-historical-background)
+- ![](platform_icons/speakerdeck.png) [技術選定完全に理解した](https://speakerdeck.com/unsoluble_sugar/technology-selection-completely-understood)
 - ![](platform_icons/speakerdeck.png) [リモート勉強会完全に理解した](https://speakerdeck.com/unsoluble_sugar/study-meeting-online-completely-understood)
 - ![](platform_icons/speakerdeck.png) [VMagicMirror完全に理解した](https://speakerdeck.com/unsoluble_sugar/vmagicmirror-completely-understood)
 - ![](platform_icons/note.png) [VRChat Creator Companionを使ってVroid Studioで作成したVRMアバターをアップロードする方法](https://note.com/unsoluble_sugar/n/n5cc84bc30213)
