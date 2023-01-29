@@ -22,12 +22,6 @@
   </a>
 </p>
 
-# 🏆 Github Profile Trophy
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=unsolublesugar&column=7&no-frame=true"/>
-</a>
-
 # 👨‍💻 LAPRAS Portfolio
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/unsoluble_sugar" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.89&b=4.09&i=3.74&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
