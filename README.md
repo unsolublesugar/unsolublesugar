@@ -34,17 +34,14 @@
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
 - ![](platform_icons/zenn.png) [【入門】Electron完全に理解した](https://zenn.dev/unsoluble_sugar/articles/c5b5faefddd35c1be8a3)
-- ![](platform_icons/zenn.png) [ラズパイではじめてのLチカしてみた記録](https://zenn.dev/unsoluble_sugar/articles/7dfb85a2689dfd4214bb)
 - ![](platform_icons/qiita.png) [VTuberのホームページをGitHubのプルリクだけで更新していったらどうなるのか？企画に参戦してみた](https://qiita.com/unsoluble_sugar/items/120f0856d497ef96010e)
-- ![](platform_icons/qiita.png) [HTTPステータスコード 完全に理解した](https://qiita.com/unsoluble_sugar/items/b080a16701946fcfce70)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
 - ![](platform_icons/qiita.png) [FlutterでFirebase Authenticationを使ったGoogleアカウントログインを実装してみた](https://qiita.com/unsoluble_sugar/items/95b16c01b456be19f9ac)
 - ![](platform_icons/speakerdeck.png) [歴史的経緯から学ぶVTuber超入門](https://speakerdeck.com/unsoluble_sugar/virtual-youtuber-super-introduction-to-learn-from-historical-background)
 - ![](platform_icons/speakerdeck.png) [リモート勉強会完全に理解した](https://speakerdeck.com/unsoluble_sugar/study-meeting-online-completely-understood)
 - ![](platform_icons/speakerdeck.png) [VMagicMirror完全に理解した](https://speakerdeck.com/unsoluble_sugar/vmagicmirror-completely-understood)
-- ![](platform_icons/note.png) [2022年の抱負](https://note.com/unsoluble_sugar/n/nd6015d904897)
+- ![](platform_icons/note.png) [VRChat Creator Companionを使ってVroid Studioで作成したVRMアバターをアップロードする方法](https://note.com/unsoluble_sugar/n/n5cc84bc30213)
 - ![](platform_icons/note.png) [TGS VR 2021に見た「VRの強み」と「リアル開催で得られていた熱気の喪失」](https://note.com/unsoluble_sugar/n/nf26d353e0257)
-- ![](platform_icons/note.png) [Varjo XR-3を体験したら生まれたてのおじさんになった](https://note.com/unsoluble_sugar/n/n61ba2fb09dc2)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
 <!--[END POSTS]-->
 
