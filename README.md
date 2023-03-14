@@ -24,8 +24,8 @@
 
 # 👨‍💻 LAPRAS Portfolio
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/unsoluble_sugar" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.89&b=4.09&i=3.74&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
-Last Updated on 3/13/2023, 1:43:14 AM
+<a href="https://lapras.com/public/unsoluble_sugar" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.9&b=4.09&i=3.74&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
+Last Updated on 3/14/2023, 1:25:09 AM
 <!--END_SECTION:lapras-card-->
 - [ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)
 
