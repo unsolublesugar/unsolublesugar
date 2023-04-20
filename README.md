@@ -53,6 +53,7 @@ Read more on
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
 # 💻 Work Related posts
+- [強い組織をつくるためにエンジニア採用で実践していること](https://note.com/dev_onecareer/n/n8e6921164fa9)
 - [エンジニアでないメンバーも自動テストが作成できるように。Autifyで低コストでの効果的なテスト運用を実現](https://autify.com/ja/stories/onecareer)
 - [「IT業界歴15年、7社でキャリアアップ！自分の強みを多角的に見せる」若手育成も担うエンジニアリングマネージャーのキャリアづくりとは【LAPRAS転職者インタビュー】 - LAPRAS NOTE ](https://note.lapras.com/method/sato/)
 - [エンジニアリングマネージャー目線で見るライブラリ技術選定の勘所 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/technology-selection-for-library)
