@@ -41,7 +41,7 @@ Last Updated on 4/28/2023, 12:23:04 AM
 - ![](platform_icons/speakerdeck.png) [技術選定完全に理解した](https://speakerdeck.com/unsoluble_sugar/technology-selection-completely-understood)
 - ![](platform_icons/speakerdeck.png) [リモート勉強会完全に理解した](https://speakerdeck.com/unsoluble_sugar/study-meeting-online-completely-understood)
 - ![](platform_icons/speakerdeck.png) [VMagicMirror完全に理解した](https://speakerdeck.com/unsoluble_sugar/vmagicmirror-completely-understood)
-- ![](platform_icons/note.png) [VRChat Creator Companionを使ってVroid Studioで作成したVRMアバターをアップロードする方法](https://note.com/unsoluble_sugar/n/n5cc84bc30213)
+- ![](platform_icons/note.png) [【革命】リアルタイムボイチェンソフト「VC Client」でついに念願のカワボをてにいれたぞ！](https://note.com/unsoluble_sugar/n/ndd8781101700)
 - ![](platform_icons/note.png) [TGS VR 2021に見た「VRの強み」と「リアル開催で得られていた熱気の喪失」](https://note.com/unsoluble_sugar/n/nf26d353e0257)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
 <!--[END POSTS]-->
@@ -53,6 +53,7 @@ Read more on
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
 # 💻 Work Related posts
+- [組織づくりを担うエンジニアリングマネージャーに話を聞いてみた　〜入社１年目エンジニアへのインタビュー〜](https://note.com/dev_onecareer/n/na99f2b723e2e)
 - [強い組織をつくるためにエンジニア採用で実践していること](https://note.com/dev_onecareer/n/n8e6921164fa9)
 - [エンジニアでないメンバーも自動テストが作成できるように。Autifyで低コストでの効果的なテスト運用を実現](https://autify.com/ja/stories/onecareer)
 - [「IT業界歴15年、7社でキャリアアップ！自分の強みを多角的に見せる」若手育成も担うエンジニアリングマネージャーのキャリアづくりとは【LAPRAS転職者インタビュー】 - LAPRAS NOTE ](https://note.lapras.com/method/sato/)
