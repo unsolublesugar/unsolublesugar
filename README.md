@@ -35,14 +35,8 @@ Last Updated on 6/26/2023, 12:29:04 AM
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
 - ![](platform_icons/zenn.png) [【入門】Electron完全に理解した](https://zenn.dev/unsoluble_sugar/articles/c5b5faefddd35c1be8a3)
-- ![](platform_icons/qiita.png) [VTuberのホームページをGitHubのプルリクだけで更新していったらどうなるのか？企画に参戦してみた](https://qiita.com/unsoluble_sugar/items/120f0856d497ef96010e)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
-- ![](platform_icons/qiita.png) [FlutterでFirebase Authenticationを使ったGoogleアカウントログインを実装してみた](https://qiita.com/unsoluble_sugar/items/95b16c01b456be19f9ac)
-- ![](platform_icons/speakerdeck.png) [技術選定完全に理解した](https://speakerdeck.com/unsoluble_sugar/technology-selection-completely-understood)
-- ![](platform_icons/speakerdeck.png) [リモート勉強会完全に理解した](https://speakerdeck.com/unsoluble_sugar/study-meeting-online-completely-understood)
-- ![](platform_icons/speakerdeck.png) [VMagicMirror完全に理解した](https://speakerdeck.com/unsoluble_sugar/vmagicmirror-completely-understood)
-- ![](platform_icons/note.png) [【革命】リアルタイムボイチェンソフト「VC Client」でついに念願のカワボをてにいれたぞ！](https://note.com/unsoluble_sugar/n/ndd8781101700)
-- ![](platform_icons/note.png) [TGS VR 2021に見た「VRの強み」と「リアル開催で得られていた熱気の喪失」](https://note.com/unsoluble_sugar/n/nf26d353e0257)
+- ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
 <!--[END POSTS]-->
 
@@ -53,6 +47,7 @@ Read more on
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
 # 💻 Work Related posts
+- [基礎から学ぶ、NFTとは？ ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/13/7874/)
 - [組織づくりを担うエンジニアリングマネージャーに話を聞いてみた　〜入社１年目エンジニアへのインタビュー〜](https://note.com/dev_onecareer/n/na99f2b723e2e)
 - [強い組織をつくるためにエンジニア採用で実践していること](https://note.com/dev_onecareer/n/n8e6921164fa9)
 - [エンジニアでないメンバーも自動テストが作成できるように。Autifyで低コストでの効果的なテスト運用を実現](https://autify.com/ja/stories/onecareer)
