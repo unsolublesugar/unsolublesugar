@@ -32,12 +32,13 @@ Last Updated on 7/3/2023, 12:28:24 AM
 # 📰 Featured posts
 
 <!--[START POSTS]-->
+- ![](platform_icons/note.png) [30代最後なので起業したエンジニアの戯言](https://note.com/unsoluble_sugar/n/n8a94ee0a78d4)
+- ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
 - ![](platform_icons/zenn.png) [【入門】Electron完全に理解した](https://zenn.dev/unsoluble_sugar/articles/c5b5faefddd35c1be8a3)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
 - ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
-- ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
 <!--[END POSTS]-->
 
 Read more on 
