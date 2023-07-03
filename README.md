@@ -48,6 +48,7 @@ Read more on
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
 # 💻 Work Related posts
+- [関連用語から深掘る ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/30/8509/)
 - [基礎から学ぶ、NFTとは？ ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/13/7874/)
 - [組織づくりを担うエンジニアリングマネージャーに話を聞いてみた　〜入社１年目エンジニアへのインタビュー〜](https://note.com/dev_onecareer/n/na99f2b723e2e)
 - [強い組織をつくるためにエンジニア採用で実践していること](https://note.com/dev_onecareer/n/n8e6921164fa9)
