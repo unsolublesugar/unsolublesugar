@@ -24,8 +24,8 @@
 
 # 👨‍💻 LAPRAS Portfolio
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/unsoluble_sugar" target="_blank" rel="noopener noreferrer"><img  alt="unsoluble_sugar's scores on LAPRAS are as follows: Engineering: 3.79 out of 5.0, Business: 4.15 out of 5.0, Influence: 3.78 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.79&b=4.15&i=3.78&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
-Last Updated on 7/8/2023, 12:27:13 AM
+<p ><a href="https://lapras.com/public/unsoluble_sugar" target="_blank" rel="noopener noreferrer"><img alt="unsoluble_sugar's scores on LAPRAS are as follows: Engineering: 3.79 out of 5.0, Business: 4.15 out of 5.0, Influence: 3.78 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.79&b=4.15&i=3.78&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
+Last Updated on 7/9/2023, 12:32:34 AM</p>
 <!--END_SECTION:lapras-card-->
 - [ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)
 
