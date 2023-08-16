@@ -61,7 +61,7 @@ Read more on
 - [「IT業界歴15年、7社でキャリアアップ！自分の強みを多角的に見せる」若手育成も担うエンジニアリングマネージャーのキャリアづくりとは【LAPRAS転職者インタビュー】 - LAPRAS NOTE ](https://note.lapras.com/method/sato/)
 - [エンジニアリングマネージャー目線で見るライブラリ技術選定の勘所 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/technology-selection-for-library)
 - [テックブログ運営を回すための取り組み 〜黄金の回転編〜 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/involved-techblog)
-- [情報発信が止まらない組織へ。エンジニアリングマネージャー・佐藤巧実の考える、これからのSynamon｜Synamon](https://note.synamon.jp/n/n44446570089a)
+- [情報発信が止まらない組織へ。エンジニアリングマネージャー・佐藤巧実の考える、これからのSynamon｜Synamon](https://note.com/synamon_xr/n/n44446570089a)
 - [情報の架け橋になる ｜ ユカイ工学プロジェクトマネージャー 佐藤巧実 インタビュー｜ユカイ工学｜note ](https://note.com/ux_xu/n/n2d345843cefd)
 - [グラムの開発にあるものと、チームで動くための心得｜グラム株式会社｜note](https://note.com/ginc/n/n2aa808ae8b85)
 - [株式会社 マスカチ | Green](https://www.green-japan.com/pr/4238)
