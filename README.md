@@ -9,9 +9,8 @@
     <img height="20" src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=unsolublesugar" />
   </a>
   <a href="https://www.youtube.com/@unsoluble_sugar">
-    <img height="20" src="https://img.shields.io/youtube/channel/views/UCfbg5CppawxJYJmjKmrMrfA?style=flat&logo=youtube&label=" />
+    <img height="20" src="https://img.shields.io/youtube/channel/views/UCfbg5CppawxJYJmjKmrMrfA?style=flat&logo=youtube" />
   </a>
-  <br>
   <a href="https://zenn.dev/unsoluble_sugar/articles">
     <img src="https://zenn.badge.nikaera.com/s/unsoluble_sugar/articles?style=flat" alt="unsoluble_sugar articles" />
   </a>
