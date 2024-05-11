@@ -2,23 +2,28 @@
   <a href="https://github.com/unsolublesugar/unsolublesugar/">
     <img src="https://komarev.com/ghpvc/?username=unsolublesugar" alt="unsolublesugar" />
   </a>
-  <a href="http://twitter.com/unsoluble_sugar">
-    <img height="20" src="https://img.shields.io/twitter/follow/unsoluble_sugar?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/unsolublesugar">
-    <img height="20" src="https://img.shields.io/github/followers/unsolublesugar?label=follow&logo=github&style=flat" />
+  <a href="https://twitter.com/unsoluble_sugar">
+    <img height="20" src="https://img.shields.io/twitter/follow/unsoluble_sugar?style=flat&logo=x" />
   </a>
   <a href="https://www.linkedin.com/in/unsolublesugar">
     <img height="20" src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=unsolublesugar" />
   </a>
+  <a href="https://www.youtube.com/@unsoluble_sugar">
+    <img height="20" src="https://img.shields.io/youtube/channel/views/UCfbg5CppawxJYJmjKmrMrfA?style=flat&logo=youtube&label=" />
+  </a>
+  <br>
+  <a href="https://zenn.dev/unsoluble_sugar/articles">
+    <img src="https://zenn.badge.nikaera.com/s/unsoluble_sugar/articles?style=flat" alt="unsoluble_sugar articles" />
+  </a>
+  </a>
+  <a href="https://zenn.dev/unsoluble_sugar">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/unsoluble_sugar/likes?style=plastic" alt="unsoluble_sugar likes" />
+  </a>
   <a href="http://qiita.com/unsoluble_sugar">
     <img height="20" src="https://qiita-badge.apiapi.app/s/unsoluble_sugar/posts.svg" />
   </a>
-  <//qiita.com/unsoluble_sugar">
+  <a href="http://qiita.com/unsoluble_sugar">
     <img height="20" src="https://qiita-badge.apiapi.app/s/unsoluble_sugar/contributions.svg" />
-  </a>
-  <//qiita.com/unsoluble_sugar">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/unsoluble_sugar/followers.svg" />
   </a>
 </p>
 
