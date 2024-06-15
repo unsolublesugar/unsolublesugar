@@ -18,7 +18,7 @@
   </a>
   </a>
   <a href="https://zenn.dev/unsoluble_sugar">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/unsoluble_sugar/likes?style=plastic" alt="unsoluble_sugar likes" />
+    <img height="20" src="https://zenn.badge.nikaera.com/s/unsoluble_sugar/likes?style=flat" alt="unsoluble_sugar likes" />
   </a>
   <a href="http://qiita.com/unsoluble_sugar">
     <img height="20" src="https://qiita-badge.apiapi.app/s/unsoluble_sugar/posts.svg" />
