@@ -1,3 +1,7 @@
+# 😺 About me
+
+👉️[unsoluble_sugar: Multifaceted Tech Enthusiast](https://www.perplexity.ai/page/unsolublesugar-Multifaceted-Tech-_.lw0lfDQDW8ShJ4lwQs_A)
+
 # 👨‍💻Skills
 
 <p align="left"> 
@@ -38,10 +42,6 @@ Last Updated on 7/22/2024, 12:26:56 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)
-
-# 😺 About me
-
-[![Xy1KUzkC2vY5h261717598402_1717598477](https://github.com/unsolublesugar/unsolublesugar/assets/8685879/7c169188-cb49-47c6-8d9d-a2292a099010)](https://www.perplexity.ai/page/unsolublesugar-Multifaceted-Tech-_.lw0lfDQDW8ShJ4lwQs_A)
 
 # 📰 Featured posts
 
