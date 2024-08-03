@@ -52,6 +52,7 @@ Last Updated on 8/3/2024, 12:25:19 AM</p>
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
 - ![](platform_icons/zenn.png) [【入門】Electron完全に理解した](https://zenn.dev/unsoluble_sugar/articles/c5b5faefddd35c1be8a3)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
+- ![](platform_icons/speakerdeck.png) [ドキュメント翻訳から始めるOSS推し活](https://speakerdeck.com/unsoluble_sugar/dokiyumentofan-yi-karashi-meruosstui-sihuo)
 - ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
 <!--[END POSTS]-->
 
@@ -62,6 +63,7 @@ Read more on
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
 # 💻 Work Related posts
+- [Developer eXperience Day 2024 生成AI関連講演のレポート記事を書かせていただきました](https://note.com/unsoluble_sugar/n/n4badf1881333)
 - [関連用語から深掘る ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/30/8509/)
 - [基礎から学ぶ、NFTとは？ ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/13/7874/)
 - [組織づくりを担うエンジニアリングマネージャーに話を聞いてみた　〜入社１年目エンジニアへのインタビュー〜](https://note.com/dev_onecareer/n/na99f2b723e2e)
