@@ -64,6 +64,7 @@ Read more on
 
 # 💻 Work Related posts
 - [Developer eXperience Day 2024 生成AI関連講演のレポート記事を書かせていただきました](https://note.com/unsoluble_sugar/n/n4badf1881333)
+- [分散型SNSの台頭。ポストTwitter（X）に求められるもの - paiza times](https://paiza.hatenablog.com/entry/2023/07/26/130000)
 - [関連用語から深掘る ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/30/8509/)
 - [基礎から学ぶ、NFTとは？ ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/13/7874/)
 - [組織づくりを担うエンジニアリングマネージャーに話を聞いてみた　〜入社１年目エンジニアへのインタビュー〜](https://note.com/dev_onecareer/n/na99f2b723e2e)
