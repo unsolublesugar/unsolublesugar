@@ -63,6 +63,7 @@ Read more on
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
 # 💻 Work Related posts
+- [Datachainさん主催のエンジニアイベントにて司会・モデレーターを務めさせていただきます](https://note.com/unsoluble_sugar/n/n832c3442b0c8)
 - [Developer eXperience Day 2024 生成AI関連講演のレポート記事を書かせていただきました](https://note.com/unsoluble_sugar/n/n4badf1881333)
 - [分散型SNSの台頭。ポストTwitter（X）に求められるもの - paiza times](https://paiza.hatenablog.com/entry/2023/07/26/130000)
 - [関連用語から深掘る ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/30/8509/)
