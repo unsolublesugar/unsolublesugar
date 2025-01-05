@@ -71,7 +71,6 @@ Read more on
 - [基礎から学ぶ、NFTとは？ ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/13/7874/)
 - [組織づくりを担うエンジニアリングマネージャーに話を聞いてみた　〜入社１年目エンジニアへのインタビュー〜](https://note.com/dev_onecareer/n/na99f2b723e2e)
 - [強い組織をつくるためにエンジニア採用で実践していること](https://note.com/dev_onecareer/n/n8e6921164fa9)
-- [エンジニアでないメンバーも自動テストが作成できるように。Autifyで低コストでの効果的なテスト運用を実現](https://autify.com/ja/stories/onecareer)
 - [「IT業界歴15年、7社でキャリアアップ！自分の強みを多角的に見せる」若手育成も担うエンジニアリングマネージャーのキャリアづくりとは【LAPRAS転職者インタビュー】 - LAPRAS NOTE ](https://note.lapras.com/method/sato/)
 - [「リモートワークは心理的安全性と生産性のバランスが肝」GOTANDA VALLEY ENGINEER NIGHT #3レポート | 五反田計画](https://project.gotanda-valley.com/5v_engineer_night_3/)
 - [エンジニアリングマネージャー目線で見るライブラリ技術選定の勘所 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/technology-selection-for-library)
