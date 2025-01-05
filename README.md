@@ -46,6 +46,7 @@ Last Updated on 1/5/2025, 12:33:00 AM</p>
 # 📰 Featured posts
 
 <!--[START POSTS]-->
+- ![](platform_icons/note.png) [生成AI時代の到来で変わる人間の役割。誰もがその真価を問われる](https://note.com/unsoluble_sugar/n/n05d981e1dd13)
 - ![](platform_icons/note.png) [30代最後なので起業したエンジニアの戯言](https://note.com/unsoluble_sugar/n/n8a94ee0a78d4)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
