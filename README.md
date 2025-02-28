@@ -47,13 +47,13 @@ Last Updated on 2/28/2025, 12:30:48 AM</p>
 
 <!--[START POSTS]-->
 - ![](platform_icons/note.png) [とあるエンジニアのLT発表を支える技術](https://note.com/unsoluble_sugar/n/n079776e4c139)
-- ![](platform_icons/note.png) [生成AI時代の到来で変わる人間の役割。誰もがその真価を問われる](https://note.com/unsoluble_sugar/n/n05d981e1dd13)
 - ![](platform_icons/note.png) [30代最後なので起業したエンジニアの戯言](https://note.com/unsoluble_sugar/n/n8a94ee0a78d4)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
+- ![](platform_icons/zenn.png) [【LT】ゆるいエンジニアリングコミュニティはいいぞ【事前収録動画＆書き起こし】](https://zenn.dev/easy_easy/articles/c50834cc069906)
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
-- ![](platform_icons/zenn.png) [【入門】Electron完全に理解した](https://zenn.dev/unsoluble_sugar/articles/c5b5faefddd35c1be8a3)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
+- ![](platform_icons/speakerdeck.png) [Godot Engineについて調べてみた](https://speakerdeck.com/unsoluble_sugar/godot-enginenituitediao-betemita)
 - ![](platform_icons/speakerdeck.png) [ドキュメント翻訳から始めるOSS推し活](https://speakerdeck.com/unsoluble_sugar/dokiyumentofan-yi-karashi-meruosstui-sihuo)
 - ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
 <!--[END POSTS]-->
