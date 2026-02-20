@@ -39,9 +39,8 @@ Last Updated on 2/20/2026, 12:44:23 AM</p>
 # 📰 Featured posts
 
 <!--[START POSTS]-->
-- ![](platform_icons/note.png) [とあるエンジニアのLT発表を支える技術](https://note.com/unsoluble_sugar/n/n079776e4c139)
-- ![](platform_icons/note.png) [30代最後なので起業したエンジニアの戯言](https://note.com/unsoluble_sugar/n/n8a94ee0a78d4)
-- ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
+- [uLoopMCP × Claude Code 〜 AI駆動でUnityゲーム開発してみた](https://www.docswell.com/s/unsoluble_sugar/KYVY7E-2026-02-20-182013)
+- [Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ](https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918)
 - ![](platform_icons/zenn.png) [【LT】ゆるいエンジニアリングコミュニティはいいぞ【事前収録動画＆書き起こし】](https://zenn.dev/easy_easy/articles/c50834cc069906)
 - ![](platform_icons/zenn.png) [ゆるいエンジニアリングコミュニティ運営完全に理解した](https://zenn.dev/unsoluble_sugar/articles/3534caabc4f028)
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
@@ -49,6 +48,9 @@ Last Updated on 2/20/2026, 12:44:23 AM</p>
 - ![](platform_icons/speakerdeck.png) [Godot Engineについて調べてみた](https://speakerdeck.com/unsoluble_sugar/godot-enginenituitediao-betemita)
 - ![](platform_icons/speakerdeck.png) [ドキュメント翻訳から始めるOSS推し活](https://speakerdeck.com/unsoluble_sugar/dokiyumentofan-yi-karashi-meruosstui-sihuo)
 - ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
+- ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
+- ![](platform_icons/note.png) [30代最後なので起業したエンジニアの戯言](https://note.com/unsoluble_sugar/n/n8a94ee0a78d4)
+- ![](platform_icons/note.png) [とあるエンジニアのLT発表を支える技術](https://note.com/unsoluble_sugar/n/n079776e4c139)
 <!--[END POSTS]-->
 
 Read more on 
