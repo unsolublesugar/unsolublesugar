@@ -39,12 +39,12 @@ Last Updated on 3/28/2026, 12:47:25 AM</p>
 # 📰 Featured posts
 
 <!--[START POSTS]-->
-- [Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ](https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918)
 - ![](platform_icons/zenn.png) [「あとで読む（読まない）」を仕組みで解決する — AI駆動の個人開発記](https://zenn.dev/unsoluble_sugar/articles/beaac7bbf9ee7a)
 - ![](platform_icons/zenn.png) [uLoopMCP × Claude Code、AI駆動でUnityゲーム開発がどこまで自走できるか試してみた](https://zenn.dev/unsoluble_sugar/articles/cd8d59be7b8f85)
 - ![](platform_icons/zenn.png) [【LT】ゆるいエンジニアリングコミュニティはいいぞ【事前収録動画＆書き起こし】](https://zenn.dev/easy_easy/articles/c50834cc069906)
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
+- ![](platform_icons/docswell.png) [Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ](https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918)
 - ![](platform_icons/speakerdeck.png) [Godot Engineについて調べてみた](https://speakerdeck.com/unsoluble_sugar/godot-enginenituitediao-betemita)
 - ![](platform_icons/speakerdeck.png) [ドキュメント翻訳から始めるOSS推し活](https://speakerdeck.com/unsoluble_sugar/dokiyumentofan-yi-karashi-meruosstui-sihuo)
 - ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
@@ -56,6 +56,7 @@ Last Updated on 3/28/2026, 12:47:25 AM</p>
 Read more on 
 ![](platform_icons/zenn.png) [Zenn](https://zenn.dev/unsoluble_sugar) / 
 ![](platform_icons/qiita.png) [Qiita](https://qiita.com/unsoluble_sugar) /
+![](platform_icons/docswell.png) [Docswell](https://www.docswell.com/user/unsoluble_sugar) /
 ![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/unsoluble_sugar) /
 ![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
 
