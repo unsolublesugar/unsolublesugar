@@ -40,6 +40,7 @@ Last Updated on 3/28/2026, 12:47:25 AM</p>
 
 <!--[START POSTS]-->
 - [Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ](https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918)
+- ![](platform_icons/zenn.png) [「あとで読む（読まない）」を仕組みで解決する — AI駆動の個人開発記](https://zenn.dev/unsoluble_sugar/articles/beaac7bbf9ee7a)
 - ![](platform_icons/zenn.png) [uLoopMCP × Claude Code、AI駆動でUnityゲーム開発がどこまで自走できるか試してみた](https://zenn.dev/unsoluble_sugar/articles/cd8d59be7b8f85)
 - ![](platform_icons/zenn.png) [【LT】ゆるいエンジニアリングコミュニティはいいぞ【事前収録動画＆書き起こし】](https://zenn.dev/easy_easy/articles/c50834cc069906)
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
