@@ -39,6 +39,7 @@ Last Updated on 4/13/2026, 12:57:53 AM</p>
 # 📰 Featured posts
 
 <!--[START POSTS]-->
+- ![](platform_icons/zenn.png) [【週末2日】Claude Codeでコミュニティポータルサイトを構築・リリースするまでの全記録](https://zenn.dev/easy_easy/articles/89318e4d0acb4f)
 - ![](platform_icons/zenn.png) [「あとで読む（読まない）」を仕組みで解決する — AI駆動の個人開発記](https://zenn.dev/unsoluble_sugar/articles/beaac7bbf9ee7a)
 - ![](platform_icons/zenn.png) [uLoopMCP × Claude Code、AI駆動でUnityゲーム開発がどこまで自走できるか試してみた](https://zenn.dev/unsoluble_sugar/articles/cd8d59be7b8f85)
 - ![](platform_icons/zenn.png) [【LT】ゆるいエンジニアリングコミュニティはいいぞ【事前収録動画＆書き起こし】](https://zenn.dev/easy_easy/articles/c50834cc069906)
@@ -49,8 +50,6 @@ Last Updated on 4/13/2026, 12:57:53 AM</p>
 - ![](platform_icons/speakerdeck.png) [ドキュメント翻訳から始めるOSS推し活](https://speakerdeck.com/unsoluble_sugar/dokiyumentofan-yi-karashi-meruosstui-sihuo)
 - ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
-- ![](platform_icons/note.png) [30代最後なので起業したエンジニアの戯言](https://note.com/unsoluble_sugar/n/n8a94ee0a78d4)
-- ![](platform_icons/note.png) [とあるエンジニアのLT発表を支える技術](https://note.com/unsoluble_sugar/n/n079776e4c139)
 <!--[END POSTS]-->
 
 Read more on 
