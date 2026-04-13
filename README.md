@@ -46,9 +46,9 @@ Last Updated on 4/13/2026, 12:57:53 AM</p>
 - ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
 - ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
 - ![](platform_icons/docswell.png) [Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ](https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918)
-- ![](platform_icons/speakerdeck.png) [Godot Engineについて調べてみた](https://speakerdeck.com/unsoluble_sugar/godot-enginenituitediao-betemita)
-- ![](platform_icons/speakerdeck.png) [ドキュメント翻訳から始めるOSS推し活](https://speakerdeck.com/unsoluble_sugar/dokiyumentofan-yi-karashi-meruosstui-sihuo)
-- ![](platform_icons/speakerdeck.png) [VC ClientでRVC完全に理解した](https://speakerdeck.com/unsoluble_sugar/rvc-with-vcclient-completely-understood)
+- ![](platform_icons/docswell.png) [Godot Engineについて調べてみた](https://www.docswell.com/s/unsoluble_sugar/5V1XQQ-2025-02-19-091040)
+- ![](platform_icons/docswell.png) [ドキュメント翻訳から始めるOSS推し活](https://www.docswell.com/s/unsoluble_sugar/5R2QEN-2024-10-02-174747)
+- ![](platform_icons/docswell.png) [VC ClientでRVC完全に理解した](https://www.docswell.com/s/unsoluble_sugar/KN1L9W-2024-10-02-174604)
 - ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
 <!--[END POSTS]-->
 
