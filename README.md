@@ -1,6 +1,6 @@
 # 😺 About me
 
-👉️[unsoluble_sugar: Multifaceted Tech Enthusiast](https://www.perplexity.ai/page/unsolublesugar-Multifaceted-Tech-_.lw0lfDQDW8ShJ4lwQs_A)
+👉️ [unsoluble_sugar Engineer Portfolio](https://unsolublesugar.github.io/portfolio/)
 
 # 👨‍💻Skills
 
