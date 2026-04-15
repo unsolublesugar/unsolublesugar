@@ -27,7 +27,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="left">
+<div align="left" style="margin: 20px 0;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" style="height:40px"/>
   </a>
@@ -115,49 +115,5 @@
 </div>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/unsoluble_sugar" target="_blank" rel="noopener noreferrer"><img alt="unsoluble_sugar's scores on LAPRAS are as follows: Engineering: 4.28 out of 5.0, Business: 3.97 out of 5.0, Influence: 3.91 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.28&b=3.97&i=3.91&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
-Last Updated on 4/15/2026, 12:57:57 AM</p>
+<p ><a href="https://lapras.com/public/unsoluble_sugar" target="_blank" rel="noopener noreferrer"><img alt="unsoluble_sugar's scores on LAPRAS are as follows: Engineering: 4.28 out of 5.0, Business: 3.97 out of 5.0, Influence: 3.91 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.28&b=3.97&i=3.91&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
-
-[ACTIVITY LOG](https://github.com/unsolublesugar/lapras-output-summary)
-
-# 📰 Featured posts
-
-<!--[START POSTS]-->
-- ![](platform_icons/zenn.png) [【週末2日】Claude Codeでコミュニティポータルサイトを構築・リリースするまでの全記録](https://zenn.dev/easy_easy/articles/89318e4d0acb4f)
-- ![](platform_icons/zenn.png) [「あとで読む（読まない）」を仕組みで解決する — AI駆動の個人開発記](https://zenn.dev/unsoluble_sugar/articles/beaac7bbf9ee7a)
-- ![](platform_icons/zenn.png) [uLoopMCP × Claude Code、AI駆動でUnityゲーム開発がどこまで自走できるか試してみた](https://zenn.dev/unsoluble_sugar/articles/cd8d59be7b8f85)
-- ![](platform_icons/zenn.png) [【LT】ゆるいエンジニアリングコミュニティはいいぞ【事前収録動画＆書き起こし】](https://zenn.dev/easy_easy/articles/c50834cc069906)
-- ![](platform_icons/zenn.png) [CourseraでGoogleのFoundations of Project Managementを履修した](https://zenn.dev/unsoluble_sugar/articles/5330b19412687ee0b435)
-- ![](platform_icons/qiita.png) [Zenn完全に理解した](https://qiita.com/unsoluble_sugar/items/558a11b455d042d648d6)
-- ![](platform_icons/docswell.png) [Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ](https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918)
-- ![](platform_icons/docswell.png) [Godot Engineについて調べてみた](https://www.docswell.com/s/unsoluble_sugar/5V1XQQ-2025-02-19-091040)
-- ![](platform_icons/docswell.png) [ドキュメント翻訳から始めるOSS推し活](https://www.docswell.com/s/unsoluble_sugar/5R2QEN-2024-10-02-174747)
-- ![](platform_icons/docswell.png) [VC ClientでRVC完全に理解した](https://www.docswell.com/s/unsoluble_sugar/KN1L9W-2024-10-02-174604)
-- ![](platform_icons/note.png) [「未経験からエンジニア」でやり抜いた時の昔話](https://note.com/unsoluble_sugar/n/ncc3b12a5859e)
-<!--[END POSTS]-->
-
-Read more on 
-![](platform_icons/zenn.png) [Zenn](https://zenn.dev/unsoluble_sugar) / 
-![](platform_icons/qiita.png) [Qiita](https://qiita.com/unsoluble_sugar) /
-![](platform_icons/docswell.png) [Docswell](https://www.docswell.com/user/unsoluble_sugar) /
-![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/unsoluble_sugar) /
-![](platform_icons/note.png) [note](https://note.com/unsoluble_sugar)
-
-# 💻 Work Related posts
-- [Datachainさん主催のエンジニアイベントにて司会・モデレーターを務めさせていただきます](https://note.com/unsoluble_sugar/n/n832c3442b0c8)
-- [Developer eXperience Day 2024 生成AI関連講演のレポート記事を書かせていただきました](https://note.com/unsoluble_sugar/n/n4badf1881333)
-- [分散型SNSの台頭。ポストTwitter（X）に求められるもの - paiza times](https://paiza.hatenablog.com/entry/2023/07/26/130000)
-- [関連用語から深掘る ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/30/8509/)
-- [基礎から学ぶ、NFTとは？ ＜エンジニアのための「NFT完全に理解した」＞ - Tech Team Journal ](https://ttj.paiza.jp/archives/2023/06/13/7874/)
-- [組織づくりを担うエンジニアリングマネージャーに話を聞いてみた　〜入社１年目エンジニアへのインタビュー〜](https://note.com/dev_onecareer/n/na99f2b723e2e)
-- [強い組織をつくるためにエンジニア採用で実践していること](https://note.com/dev_onecareer/n/n8e6921164fa9)
-- [「IT業界歴15年、7社でキャリアアップ！自分の強みを多角的に見せる」若手育成も担うエンジニアリングマネージャーのキャリアづくりとは【LAPRAS転職者インタビュー】 - LAPRAS NOTE ](https://note.lapras.com/method/sato/)
-- [「リモートワークは心理的安全性と生産性のバランスが肝」GOTANDA VALLEY ENGINEER NIGHT #3レポート | 五反田計画](https://project.gotanda-valley.com/5v_engineer_night_3/)
-- [エンジニアリングマネージャー目線で見るライブラリ技術選定の勘所 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/technology-selection-for-library)
-- [テックブログ運営を回すための取り組み 〜黄金の回転編〜 - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/involved-techblog)
-- [情報発信が止まらない組織へ。エンジニアリングマネージャー・佐藤巧実の考える、これからのSynamon｜Synamon](https://note.com/synamon_xr/n/n44446570089a)
-- [情報の架け橋になる ｜ ユカイ工学プロジェクトマネージャー 佐藤巧実 インタビュー｜ユカイ工学｜note ](https://note.com/ux_xu/n/n2d345843cefd)
-- [グラムの開発にあるものと、チームで動くための心得｜グラム株式会社｜note](https://note.com/ginc/n/n2aa808ae8b85)
-- [株式会社 マスカチ | Green](https://www.green-japan.com/pr/4238)
-- [「スマホで2択」が女子高生の新たなブーム!? アンケートアプリ『aorb』が10代女子にウケる理由 - エンジニアtype | 転職type](https://type.jp/et/feature/5667/)
