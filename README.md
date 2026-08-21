@@ -1,13 +1,17 @@
 # 😺 About me
 
-👉️ [unsoluble_sugar Engineer Portfolio](https://unsolublesugar.github.io/portfolio/)
+<a href="https://unsolublesugar.github.io/portfolio/">
+  <img src="./portfolio-card.png" alt="unsoluble_sugar Engineer Portfolio" width="500" />
+</a>
+
+👉️ [unsoluble_sugar | Engineer Portfolio](https://unsolublesugar.github.io/portfolio/)
 
 <p align="left"> 
   <a href="https://github.com/unsolublesugar/unsolublesugar/">
     <img src="https://komarev.com/ghpvc/?username=unsolublesugar" alt="unsolublesugar" />
   </a>
   <a href="https://twitter.com/unsoluble_sugar">
-    <img height="20" src="https://img.shields.io/twitter/follow/unsoluble_sugar?style=flat&logo=x" />
+    <img height="20" src="https://img.shields.io/badge/follow-@unsoluble__sugar-000000?style=flat&logo=x" />
   </a>
   <a href="https://zenn.dev/unsoluble_sugar">
     <img src="https://badgen.org/img/zenn/unsoluble_sugar/likes?style=flat" alt="Likes" />
@@ -19,7 +23,7 @@
     <img height="20" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=unsolublesugar" />
   </a>
   <a href="https://www.youtube.com/@unsoluble_sugar">
-    <img height="20" src="https://img.shields.io/youtube/channel/views/UCfbg5CppawxJYJmjKmrMrfA?style=flat&logo=youtube" />
+    <img height="20" src="https://img.shields.io/badge/YouTube-@unsoluble__sugar-FF0000?style=flat&logo=youtube" />
   </a>
 </p>
 
