@@ -1,9 +1,5 @@
 # 😺 About me
 
-<a href="https://unsolublesugar.github.io/portfolio/">
-  <img src="./portfolio-card.png" alt="unsoluble_sugar Engineer Portfolio" width="500" />
-</a>
-
 👉️ [unsoluble_sugar | Engineer Portfolio](https://unsolublesugar.github.io/portfolio/)
 
 <p align="left"> 
