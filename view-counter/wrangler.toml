@@ -1,0 +1,17 @@
+name = "profile-views"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+[vars]
+# Durable Object にカウントが未保存のときの初期値（komarev から引き継いだ値）
+INITIAL_COUNT = "6017"
+
+[[durable_objects.bindings]]
+name = "COUNTER"
+class_name = "Counter"
+
+# 無料プランでも使える SQLite バックエンドの Durable Object
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Counter"]
