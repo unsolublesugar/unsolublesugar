@@ -4,7 +4,7 @@
 
 <p align="left"> 
   <a href="https://github.com/unsolublesugar/unsolublesugar/">
-    <img src="https://komarev.com/ghpvc/?username=unsolublesugar" alt="unsolublesugar" />
+    <img src="https://profile-views.unsoluble-sugar.workers.dev/" alt="unsolublesugar" />
   </a>
   <a href="https://twitter.com/unsoluble_sugar">
     <img height="20" src="https://img.shields.io/badge/follow-@unsoluble__sugar-000000?style=flat&logo=x" />
